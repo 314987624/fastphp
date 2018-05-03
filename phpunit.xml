@@ -6,5 +6,6 @@
         <testsuite name="Application Test Suite">
             <directory>./tests/</directory>
         </testsuite>
-    </testsuites>
+    </testsuites>   
 </phpunit>
+11
